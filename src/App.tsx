@@ -17,7 +17,7 @@ export default function App() {
                 <Route path="/about" element={<About />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>
-            <footer className="footer">© {new Date().getFullYear()} rp2025ai-blog · All rights reserved.</footer>
+            <footer className="footer">© {new Date().getFullYear()} ravizenx-blog · All rights reserved.</footer>
         </div>
     );
 }

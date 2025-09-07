@@ -7,7 +7,7 @@ export default function Navbar() {
             <div className="brand-row">
                 <img src="https://avatars.githubusercontent.com/u/228281554?s=400&u=c55b4b7edd83b45e689be120077ceab8735faf79&v=4" alt="Logo" className="logo" />
                 <div>
-                    <h1 className="title"><span className="brand">rp2025ai</span>Blog</h1>
+                    <h1 className="title"><span className="brand">ravizenx</span>Blog</h1>
                     <p className="tagline">Personal blog about python, ai and machine learning.</p>
                 </div>
             </div>
